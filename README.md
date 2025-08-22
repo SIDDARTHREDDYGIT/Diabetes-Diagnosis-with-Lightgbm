@@ -4,6 +4,8 @@ Overview:
 
 This project implements a Diabetes Diagnosis System using machine learning techniques to predict the likelihood of diabetes based on patient health data. The workflow includes data preprocessing, exploratory data analysis (EDA), feature scaling, and model training, providing a complete end-to-end pipeline for medical prediction tasks.
 
+
+
 NOVELTY:
 
  LightGBM Classifier – leveraged for its efficiency and high performance on tabular medical data.
