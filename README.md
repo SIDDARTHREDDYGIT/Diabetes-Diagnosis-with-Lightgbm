@@ -34,31 +34,31 @@ The dataset is imbalanced, making evaluation metrics like Recall and ROC-AUC cru
 
 Features:
 
-Data preprocessing & missing value handling
+     Data preprocessing & missing value handling
 
-Visualization with Seaborn, Matplotlib, and Plotly
+     Visualization with Seaborn, Matplotlib, and Plotly
 
-Standardization and feature scaling
+     Standardization and feature scaling
 
-Training multiple ML models (Logistic Regression, Random Forest, LightGBM, etc.)
+     Training multiple ML models (Logistic Regression, Random Forest, LightGBM, etc.)
 
-Hyperparameter tuning with Bayesian Optimization
+     Hyperparameter tuning with Bayesian Optimization
 
-Model evaluation & performance comparison
+     Model evaluation & performance comparison
 
 Tech Stack:
 
-Python
+     Python
 
-Scikit-learn
+     Scikit-learn
 
-LightGBM
+     LightGBM
 
-PyCaret
+     PyCaret
 
-Bayesian Optimization (bayes_opt)
+     Bayesian Optimization (bayes_opt)
 
-Matplotlib / Seaborn / Plotly
+     Matplotlib / Seaborn / Plotly
 
 PROJECT STRUCTURE:
 📦 Diabetes-Diagnosis
@@ -70,18 +70,16 @@ PROJECT STRUCTURE:
 
  Results:
 
-LightGBM with Bayesian Optimization achieved the best predictive performance compared to baseline models.
+   LightGBM with Bayesian Optimization achieved the best predictive performance compared to baseline models.
 
-Demonstrated strong balance between accuracy and recall, making it a suitable choice for medical prediction tasks where minimizing false negatives is critical.
+   Demonstrated strong balance between accuracy and recall, making it a suitable choice for medical prediction tasks where minimizing false negatives is critical.
 
 Future Work:
 
-Deploy the model as a web application for real-time predictions.
+    Deploy the model as a web application for real-time predictions.
 
-Experiment with deep learning models (e.g., TabNet, Autoencoders).
+    Experiment with deep learning models (e.g., TabNet, Autoencoders).
 
-Incorporate explainability tools like SHAP to improve model interpretability.
+    Incorporate explainability tools like SHAP to improve model interpretability.
 
-License
 
-This project is licensed under the MIT License. See LICENSE for more info.
