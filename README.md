@@ -83,4 +83,6 @@ Future Work:
 
     Incorporate explainability tools like SHAP to improve model interpretability.
 
+License:
+This project is licensed under the [MIT License](LICENSE).
 
