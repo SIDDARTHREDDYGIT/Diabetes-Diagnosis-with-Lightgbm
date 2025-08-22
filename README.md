@@ -61,11 +61,12 @@ Tech Stack:
      Matplotlib / Seaborn / Plotly
 
 PROJECT STRUCTURE:
-📦 Diabetes-Diagnosis
- ┣ 📜 DIABETES_DIAGNOSIS_FINAL_CODE.ipynb   # Jupyter Notebook with implementation
- ┣ 📜 requirements.txt                      # Dependencies
- ┣ 📜 README.md                             # Project Documentation
- ┗ 📂 data                                  # Dataset
+       
+    Diabetes-Diagnosis
+    ┣ 📜DIABETES_DIAGNOSIS_FINAL_CODE.ipynb   # Jupyter Notebook with implementation
+    ┣ 📜 requirements.txt                      # Dependencies
+    ┣ 📜 README.md                             # Project Documentation
+    ┗ 📂 data                                  # Dataset
 
 
  Results:
